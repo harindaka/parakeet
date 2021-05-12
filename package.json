@@ -1,5 +1,5 @@
 {
-  "version": "0.0.3",
+  "version": "0.0.4",
   "name": "parakeetx",
   "description": "Echo server for TCP/UDP/HTTP/HTTPS",
   "author": "Hemal Harindaka",
