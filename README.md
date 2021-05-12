@@ -78,16 +78,18 @@ npm install parakeet
   Commands:
 
     http   start HTTP echo server
+    https  start HTTPs echo server
     tcp    start TCP echo server
     udp    start UDP echo server
 
   Options:
 
-    -h, --help               output usage information
-    -V, --version            output the version number
-    -p, --port <number>      port to listen on
-    -a, --address <address>  network address to listen on
-
+    -h, --help                        output usage information
+    -V, --version                     output the version number
+    -p, --port <number>               port to listen on
+    -a, --address <address>           network address to listen on
+    -k, --key <key>                   SSL private key file path (for use with https)
+    -c, --certificate <certificate>   SSL certificate file path (for use with https)
 ```
 
 ---
