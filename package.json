@@ -1,5 +1,5 @@
 {
-  "version": "0.0.4",
+  "version": "0.0.5",
   "name": "parakeetx",
   "description": "Echo server for TCP/UDP/HTTP/HTTPS",
   "author": "Hemal Harindaka",
@@ -10,7 +10,7 @@
   },
   "license": "MIT",
   "bin": {
-    "parakeet": "lib/bin.js"
+    "parakeetx": "lib/bin.js"
   },
   "keywords": [
     "debug",
@@ -20,6 +20,7 @@
     "ssl",
     "mock",
     "parakeet",
+    "parakeetx",
     "server",
     "tcp",
     "udp"
