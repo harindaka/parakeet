@@ -1,4 +1,6 @@
-# Parakeet
+# Parakeetx
+
+This is a fork of the original repo found [here](https://github.com/ahmadnassri/parakeet) which adds the ability to host an HTTPS version of parakeet
 
 [![License][license-image]][license-url] [![version][npm-image]][npm-url] [![Build Status][circle-image]][circle-url]
 
@@ -65,14 +67,14 @@ Watch the screencast [here](https://asciinema.org/a/37456)
 ## Install
 
 ```bash
-npm install parakeet
+npm install parakeetx
 ```
 
 ## Usage
 
 ```plain
 
-  Usage: parakeet [options] [command]
+  Usage: parakeetx [options] [command]
 
 
   Commands:
